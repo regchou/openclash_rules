@@ -1,0 +1,13 @@
+# NAME: DevOps
+# AUTHOR: RegChou
+# REPO: https://github.com/regchou/openclash_rules
+# UPDATED: 2025-08-02 09:42:00
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 4
+# TOTAL: 6
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,registry.k8s.io
+DOMAIN-SUFFIX,asia-east1-docker.pkg.dev
+DOMAIN-SUFFIX,k8s.gcr.io
+DOMAIN-KEYWORD,k8s
+DOMAIN-KEYWORD,docker
